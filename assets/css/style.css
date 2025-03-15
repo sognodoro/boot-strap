@@ -14,6 +14,11 @@ h1,h2{
     font-family: "DM Serif Display",sans-serif;
     color:#184f63;
 }
+.custom-button{
+    background:midnightblue;
+    border:midnightblue;
+}
+.custom-button:hover{background-color:#1d6d8a}
 .sharp-corners,
 .sharp-corners * {
     border-radius: 0;
